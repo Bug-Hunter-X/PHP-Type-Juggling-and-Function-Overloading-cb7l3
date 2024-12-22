@@ -1,0 +1,2 @@
+# PHP Type Juggling and Function Overloading
+This example demonstrates a potential issue in PHP related to type juggling and function overloading.  The code appears to handle integers and strings correctly with type hinting. However, depending on the context and how functions are called, unexpected type coercion could occur.  Care is needed to ensure type safety in such scenarios.
